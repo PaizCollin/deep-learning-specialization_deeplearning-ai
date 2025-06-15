@@ -1,2 +1,6 @@
 logs/
 .hidden/
+variables/
+models/
+*.h5
+.ipynb_checkpoints/
